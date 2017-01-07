@@ -11,7 +11,7 @@
     "gulp-plumber": "^1.1.0",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^2.0.0",
-    "jshint": "^2.9.4",
-    "jshint-stylish": "^2.2.1"
-  }
+    "jshint": "^2.9.4"
+  },
+  "name": "ChangeMe"
 }
